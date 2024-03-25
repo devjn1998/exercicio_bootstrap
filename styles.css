@@ -1,0 +1,58 @@
+body
+{
+    background-image: linear-gradient(to right,#d8cdcd 15%, #D3305D 100%, #FFAEC2, #FFFFFF 40%);
+}
+
+.h2
+{
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    
+}
+
+.space
+{
+    margin-bottom: 20px;
+}
+
+
+
+.cor1
+{
+    color: rgb(215, 229, 250);
+}
+
+.col h1
+{
+    color: #413838;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+textarea
+{
+    resize: none;
+}
+
+.btn-div
+{
+    text-align: center;
+}
+
+.btn-div button
+{
+    height: 55px;
+    width: 160px;
+    color: #ccc;
+    font-weight: bolder;
+}
+
+label
+{
+    color: #413838;
+    font-weight: bolder;
+
+}
+
